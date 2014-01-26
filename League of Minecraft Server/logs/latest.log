@@ -1,58 +1,38 @@
-[12:19:57] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[12:19:57] [Server thread/INFO]: Loading properties
-[12:19:57] [Server thread/INFO]: Default game type: SURVIVAL
-[12:19:57] [Server thread/INFO]: Generating keypair
-[12:19:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:19:58] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
-[12:19:58] [Server thread/INFO]: [DragonCast] Loading DragonCast v4.0
-[12:19:58] [Server thread/INFO]: Preparing level "world"
-[12:19:58] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3290062378900685011)
-[12:19:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3290062378900685011)
-[12:19:58] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
-[12:19:58] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[12:19:58] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[12:19:58] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[12:19:58] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[12:19:58] [Thread-7/INFO]: ----- ------------------- -----
-[12:19:59] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3290062378900685011)
-[12:19:59] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
-[12:19:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:19:59] [Server thread/INFO]: Done (1.173s)! For help, type "help" or "?"
-[12:20:25] [User Authenticator #1/INFO]: UUID of player 100persent is 03f6f09261544ce3b5daa62682c6f372
-[12:20:26] [Server thread/INFO]: 100persent[/99.8.65.63:53040] logged in with entity id 211 at ([world] 171.5, 72.0, 56.5)
-[12:21:12] [Server thread/INFO]: 100persent issued server command: /dc reload
-[12:21:22] [Server thread/INFO]: 100persent issued server command: /reload
-[12:21:26] [Server thread/INFO]: 100persent issued server command: /dc reload
-[12:21:31] [Server thread/INFO]: [0;37;22m=====[0;33;22mDragonCast[0;37;22m=====[m[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc reload [0;37;22m: [0;32;1mReload the Plugin[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc on [0;37;22m: [0;32;1mEnables the Messager[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc off [0;37;22m: [0;32;1mDisables the Messager[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc add <message> [0;37;22m: [0;32;1mAdds the Message to the list[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc remove [#] [0;37;22m: [0;32;1mRemove the Message from the list[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc list [0;37;22m: [0;32;1mShows all Messages[m
-[12:21:31] [Server thread/INFO]: [0;36;22m/dc broadcast [0;37;22m: [0;32;1mBroadcast a message[m
-[12:21:33] [Server thread/INFO]: [0;37;22m[21m[[0;33;22mDragonCast[0;37;22m[21m] [0;32;1mConfig Reloaded[m
-[12:21:33] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
-[12:21:33] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
-[12:21:59] [Server thread/INFO]: [0;37;22m[21m[[0;33;22mDragonCast[0;37;22m[21m] [0;32;1mConfig Reloaded[m
-[12:21:59] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
-[12:21:59] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
-[12:24:57] [Server thread/INFO]: CONSOLE: Opped 100persent[m
-[12:25:01] [Server thread/INFO]: 100persent issued server command: /gamemode 1
-[12:25:01] [Server thread/INFO]: 100persent: Set own game mode to CREATIVE mode[m
-[12:25:13] [Server thread/INFO]: 100persent has just earned the achievement [Taking Inventory]
-[12:27:27] [Server thread/INFO]: 100persent issued server command: /stop
-[12:27:27] [Server thread/INFO]: 100persent: Stopping the server..[m
-[12:27:27] [Server thread/INFO]: Stopping server
-[12:27:27] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
-[12:27:27] [Server thread/INFO]: Saving players
-[12:27:27] [Server thread/INFO]: 100persent lost connection: Server closed
-[12:27:27] [Server thread/INFO]: 100persent left the game.
-[12:27:27] [Server thread/INFO]: Saving worlds
-[12:27:27] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[12:27:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[12:27:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[12:27:28] [Thread-4/INFO]: Stopping server
-[12:27:28] [Thread-4/INFO]: Saving players
-[12:27:28] [Thread-4/INFO]: Saving worlds
-[12:27:28] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[12:31:11] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[12:31:11] [Server thread/INFO]: Loading properties
+[12:31:11] [Server thread/INFO]: Default game type: SURVIVAL
+[12:31:11] [Server thread/INFO]: Generating keypair
+[12:31:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:31:11] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[12:31:11] [Server thread/INFO]: [League of Minecraft] Loading League of Minecraft v0.2
+[12:31:11] [Server thread/INFO]: [DragonCast] Loading DragonCast v4.0
+[12:31:11] [Server thread/INFO]: [AutoAnswer] Loading AutoAnswer v1.2
+[12:31:11] [Server thread/INFO]: Preparing level "world"
+[12:31:11] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3290062378900685011)
+[12:31:12] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3290062378900685011)
+[12:31:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3290062378900685011)
+[12:31:12] [Server thread/INFO]: [League of Minecraft] Enabling League of Minecraft v0.2
+[12:31:12] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
+[12:31:12] [Server thread/INFO]: [AutoAnswer] Enabling AutoAnswer v1.2
+[12:31:12] [Server thread/INFO]: [AutoAnswer] AutoAnswer Enabled!
+[12:31:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:31:12] [Server thread/INFO]: Done (1.144s)! For help, type "help" or "?"
+[12:31:12] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[12:31:12] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[12:31:12] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[12:31:12] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[12:31:12] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[12:31:12] [Thread-7/INFO]: ----- ------------------- -----
+[12:31:18] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[12:31:18] [Server thread/INFO]: Stopping server
+[12:31:18] [Server thread/INFO]: [AutoAnswer] Disabling AutoAnswer v1.2
+[12:31:18] [Server thread/INFO]: [AutoAnswer] AutoAnswer Disabled!
+[12:31:18] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
+[12:31:18] [Server thread/INFO]: [League of Minecraft] Disabling League of Minecraft v0.2
+[12:31:18] [Server thread/INFO]: Saving players
+[12:31:18] [Server thread/INFO]: Saving worlds
+[12:31:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:31:19] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[12:31:19] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[12:31:19] [Thread-4/INFO]: Stopping server
+[12:31:19] [Thread-4/INFO]: Saving players
