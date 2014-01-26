@@ -31,3 +31,11 @@
 [12:14:04] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3290062378900685011)
 [12:14:05] [Server thread/INFO]: Preparing spawn area: 63%
 [12:14:06] [Server thread/INFO]: Done (14.486s)! For help, type "help" or "?"
+[12:14:50] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[12:14:50] [Server thread/INFO]: Stopping server
+[12:14:50] [Server thread/INFO]: Saving players
+[12:14:50] [Server thread/INFO]: Saving worlds
+[12:14:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:14:50] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[12:14:50] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[12:14:50] [Thread-4/INFO]: Stopping server
