@@ -2,7 +2,7 @@
 
 // EDIT THE FOLLOWING LINE BELOW AS REQUIRED
 
-$send_email_to = "admin@egrappler.com";
+$send_email_to = "cmcoleco@gmail.com";
 
 function send_email($name,$email,$email_subject,$email_message)
 {
