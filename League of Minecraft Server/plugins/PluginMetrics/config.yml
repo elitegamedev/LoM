@@ -1,4 +1,4 @@
 # http://mcstats.org
-opt-out: false
+opt-out: true
 guid: 511bfc5b-0c9e-4a3e-882f-719c14e24e01
 debug: false
