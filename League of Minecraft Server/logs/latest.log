@@ -1,39 +1,65 @@
-[13:05:16] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[13:05:16] [Server thread/INFO]: Loading properties
-[13:05:16] [Server thread/INFO]: Default game type: SURVIVAL
-[13:05:16] [Server thread/INFO]: Generating keypair
-[13:05:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:05:16] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
-[13:05:16] [Server thread/INFO]: [League of Minecraft] Loading League of Minecraft v0.2
-[13:05:16] [Server thread/INFO]: [DragonCast] Loading DragonCast v4.0
-[13:05:16] [Server thread/INFO]: [AutoAnswer] Loading AutoAnswer v1.2
-[13:05:16] [Server thread/INFO]: Preparing level "world"
-[13:05:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3290062378900685011)
-[13:05:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3290062378900685011)
-[13:05:17] [Thread-9/INFO]: ----- Bukkit Auto Updater -----
-[13:05:17] [Thread-9/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[13:05:17] [Thread-9/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[13:05:17] [Thread-9/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[13:05:17] [Thread-9/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[13:05:17] [Thread-9/INFO]: ----- ------------------- -----
-[13:05:17] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3290062378900685011)
-[13:05:18] [Server thread/INFO]: [League of Minecraft] Enabling League of Minecraft v0.2
-[13:05:18] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
-[13:05:18] [Server thread/INFO]: [AutoAnswer] Enabling AutoAnswer v1.2
-[13:05:18] [Server thread/INFO]: [AutoAnswer] AutoAnswer Enabled!
-[13:05:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:05:18] [Server thread/INFO]: Done (1.208s)! For help, type "help" or "?"
-[13:15:15] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[13:15:15] [Server thread/INFO]: Stopping server
-[13:15:15] [Server thread/INFO]: [AutoAnswer] Disabling AutoAnswer v1.2
-[13:15:15] [Server thread/INFO]: [AutoAnswer] AutoAnswer Disabled!
-[13:15:15] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
-[13:15:15] [Server thread/INFO]: [League of Minecraft] Disabling League of Minecraft v0.2
-[13:15:15] [Server thread/INFO]: Saving players
-[13:15:15] [Server thread/INFO]: Saving worlds
-[13:15:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[13:15:15] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[13:15:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[13:15:15] [Thread-4/INFO]: Stopping server
-[13:15:15] [Thread-4/INFO]: Saving players
-[13:15:15] [Thread-4/INFO]: Saving worlds
+[18:26:26] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[18:26:26] [Server thread/INFO]: Loading properties
+[18:26:26] [Server thread/INFO]: Default game type: SURVIVAL
+[18:26:26] [Server thread/INFO]: Generating keypair
+[18:26:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:26:27] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-15-g2f3dbd3-b2995jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3-SNAPSHOT)
+[18:26:27] [Server thread/INFO]: [League of Minecraft] Loading League of Minecraft v0.2
+[18:26:27] [Server thread/INFO]: [DragonCast] Loading DragonCast v4.0
+[18:26:27] [Server thread/INFO]: [AdminCraft Panel] Loading AdminCraft Panel v1.5
+[18:26:27] [Server thread/INFO]: [AutoAnswer] Loading AutoAnswer v1.2
+[18:26:27] [Server thread/INFO]: [Essentials] Loading Essentials vPre2.13.1.2
+[18:26:27] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vPre2.13.1.2
+[18:26:27] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.13.1.2
+[18:26:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.13.1.2
+[18:26:27] [Server thread/INFO]: Preparing level "world"
+[18:26:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3290062378900685011)
+[18:26:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3290062378900685011)
+[18:26:28] [Thread-9/INFO]: ----- Bukkit Auto Updater -----
+[18:26:28] [Thread-9/INFO]: It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[18:26:28] [Thread-9/INFO]: If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+[18:26:28] [Thread-9/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[18:26:28] [Thread-9/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[18:26:28] [Thread-9/INFO]: ----- ------------------- -----
+[18:26:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3290062378900685011)
+[18:26:28] [Server thread/INFO]: [League of Minecraft] Enabling League of Minecraft v0.2
+[18:26:28] [Server thread/INFO]: [DragonCast] Enabling DragonCast v4.0
+[18:26:28] [Server thread/INFO]: [AdminCraft Panel] Enabling AdminCraft Panel v1.5
+[18:26:28] [Server thread/INFO]: [AdminCraft Panel] Login successful.
+[18:26:28] [Server thread/INFO]: [AutoAnswer] Enabling AutoAnswer v1.2
+[18:26:28] [Server thread/INFO]: [AutoAnswer] AutoAnswer Enabled!
+[18:26:28] [Server thread/INFO]: [Essentials] Enabling Essentials vPre2.13.1.2
+[18:26:28] [Server thread/INFO]: Creating config from template: /Users/100persent/Desktop/League of Minecraft Server/plugins/Essentials/config.yml
+[18:26:28] [pool-4-thread-1/INFO]: Creating empty config: /Users/100persent/Desktop/League of Minecraft Server/plugins/Essentials/upgrades-done.yml
+[18:26:28] [Server thread/INFO]: Creating config from template: /Users/100persent/Desktop/League of Minecraft Server/plugins/Essentials/worth.yml
+[18:26:29] [Server thread/INFO]: [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
+[18:26:29] [Server thread/INFO]: [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
+[18:26:29] [Server thread/INFO]: [Essentials] This will start 5 minutes after the first admin/op joins.
+[18:26:29] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[18:26:29] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[18:26:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vPre2.13.1.2
+[18:26:29] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.13.1.2
+[18:26:29] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.13.1.2
+[18:26:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:26:29] [Server thread/INFO]: Done (1.777s)! For help, type "help" or "?"
+[18:26:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2795ms behind, skipping 55 tick(s)
+[18:27:29] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[18:27:29] [Server thread/INFO]: Stopping server
+[18:27:29] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vPre2.13.1.2
+[18:27:29] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.13.1.2
+[18:27:29] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vPre2.13.1.2
+[18:27:29] [Server thread/INFO]: [Essentials] Disabling Essentials vPre2.13.1.2
+[18:27:29] [Server thread/INFO]: [AutoAnswer] Disabling AutoAnswer v1.2
+[18:27:29] [Server thread/INFO]: [AutoAnswer] AutoAnswer Disabled!
+[18:27:29] [Server thread/INFO]: [AdminCraft Panel] Disabling AdminCraft Panel v1.5
+[18:27:29] [Server thread/INFO]: [DragonCast] Disabling DragonCast v4.0
+[18:27:29] [Server thread/INFO]: [League of Minecraft] Disabling League of Minecraft v0.2
+[18:27:29] [Server thread/INFO]: Saving players
+[18:27:29] [Server thread/INFO]: Saving worlds
+[18:27:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:27:29] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:27:29] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[18:27:29] [Thread-4/INFO]: Stopping server
+[18:27:29] [Thread-4/INFO]: Saving players
+[18:27:29] [Thread-4/INFO]: Saving worlds
+[18:27:29] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
