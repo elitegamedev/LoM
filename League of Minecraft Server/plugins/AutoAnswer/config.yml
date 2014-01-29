@@ -4,7 +4,7 @@ Prefix: StaffAsk
 Key Words:
   Min Words: 4
 Cancel Chat: true
-Number of Questions: 1
+Number of Questions: 6
 Question1:
   Key Words:
   - staff
