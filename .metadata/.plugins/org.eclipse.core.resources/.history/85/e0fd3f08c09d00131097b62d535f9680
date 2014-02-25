@@ -1,0 +1,5 @@
+package de.elicis.lom.BukkitLivingEntity;
+
+public class BukkitMCLivingEntity {
+
+}
